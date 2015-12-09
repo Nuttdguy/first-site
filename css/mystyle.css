@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+html {
+  margin: auto;
+  width: 80%;
+  background: rgba(0,0,0,.2);
+  text-align: justify;
+  font-family: arial, serif;
+  font-size: 18px;
+}
+
